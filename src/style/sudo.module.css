@@ -1,0 +1,10 @@
+.bodyFlex {
+  display: flex;
+  width: 500px;
+  height: 500px;
+}
+.button {
+  width: 100px;
+  height: 20px;
+  margin-right: 20px;
+}

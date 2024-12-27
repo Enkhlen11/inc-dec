@@ -1,3 +1,3 @@
 export const Squere = (props) => {
-  return <div>{props.value}</div>;
+  return <div className="{squere}">{props.value}</div>;
 };
